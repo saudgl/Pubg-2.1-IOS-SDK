@@ -1,0 +1,37 @@
+#By Saudgl
+#my Channel telegram https://t.me/pubg_dev
+#contact me on telegram https://t.me/saudgl
+------------------
+
+
+Executable: /private/var/containers/Bundle/Application/###/ShadowTrackerExtra.app/ShadowTrackerExtra
+__PAGEZERO Size: 0x100000000
+BaseAddress: 0x24e4000
+==========================
+GNames: 0x10fb17660
+Test Dumping First 10 Name Enteries
+GetNameByID(0): None
+GetNameByID(1): ByteProperty
+GetNameByID(2): IntProperty
+GetNameByID(3): BoolProperty
+GetNameByID(4): FloatProperty
+GetNameByID(5): ObjectProperty
+GetNameByID(6): NameProperty
+GetNameByID(7): DelegateProperty
+GetNameByID(8): DoubleProperty
+GetNameByID(9): ArrayProperty
+==========================
+ObjObjects: 0x10a5a11e8
+ObjObjects Num: 185726
+ObjObjects Max: 450000
+==========================
+Saved packages: 481
+Saved classes: 4696
+Saved structs: 3265
+Saved enums: 1358
+Unsaved packages: [
+	Transient
+]
+==========================
+Generating json...
+Functions: 15614
