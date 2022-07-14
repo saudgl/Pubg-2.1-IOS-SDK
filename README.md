@@ -1,7 +1,7 @@
 # Pubg-2.1-IOS-SDK
 Pubg 2.1 SDK for IOS IPhone and IPad only UE4 engine 14-7-2022
 
- * This SDK For Unreal Engine 4 UE4 ((( Pubg 2.0 ))) 
+ * This SDK For Unreal Engine 4 UE4 ((( Pubg 2.1 ))) 
  * THIS ONLY FOR IOS IPhone or IPAD
  * what you need for ESP (radar or xray ) is this:
  * UWorld :0x102517d5c / 0x1081c6318 
@@ -30,11 +30,11 @@ Pubg 2.1 SDK for IOS IPhone and IPad only UE4 engine 14-7-2022
 
 ------------------
 * Thnaks @MJx0
-https://github.com/saudgl/Pubg-2.0-IOS-SDK
+https://github.com/saudgl/Pubg-2.1-IOS-SDK 
 
-# ملفات SDK64 للعبة ببجي اصدار ٢.٠ ايفون وايباد فقط(IOS)
-* هذا فقط للايفون والايباد محرك UE4  لعبة ببجي اصدار ٢.٠
-* اوفستات الردار UWorld  في الاعلى 
+# ملفات SDK64 للعبة ببجي اصدار ٢.١ ايفون وايباد فقط(IOS)
+* هذا فقط للايفون والايباد محرك UE4  لعبة ببجي اصدار ٢.١
+* اوفستات الردار FName GName GWorld UWorld  في الاعلى 
 * كل ماتحتاجه لتطوير هاك
 * كل ملفات الهيدرز headers في مجلد مضغوط 
 * كل ماتحتاجه من اوفستات لتطوير ردار للعبة 
