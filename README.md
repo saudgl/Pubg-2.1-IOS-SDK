@@ -1,5 +1,7 @@
 # Pubg-2.1-IOS-SDK
-Pubg 2.1 SDK for IOS IPhone and IPad only UE4 engine 14-7-2022
+Pubg 2.1 SDK for IOS IPhone and IPad (ARM64) UE4 engine 14-7-2022
+Tested only on architecture AArch64 or ARM64, Dumped from IPhone11. I do not know if it work for others architecture
+
 
  * This SDK For Unreal Engine 4 UE4 ((( Pubg 2.1 ))) 
  * THIS ONLY FOR IOS IPhone or IPAD
